@@ -1,0 +1,55 @@
+#1. Statewise Distribution of Max Doses Administered in a Single Day
+
+---U.P.
+---Maharashtra
+---Gujarat
+---Madhya Pradesh
+---Rajasthan
+
+#2. Statewise Distribution of Max Doses Given in a Single Day
+
+---U.P
+---Maharashtra
+---Rajasthan
+---Gujarat
+---Karnataka
+
+#3. Statewise Distribution of Min Doses Given Per 100 Doses Administered in a Single Day
+
+---Tripura
+---Manipur
+---Ladkah
+---Telengana
+---Andhra Pradesh
+
+#4. Gender - Wise  Distribution of Vaccine Doses
+
+---Men: 53 %
+---Women: 47 %
+---Transgenders: 0.0147 %
+
+#5. Statewise Distribution of Total Doses Given 
+
+---Maharashtra
+---Uttar Pradesh
+---Rajasthan
+---Gujarat
+---West Bengal
+
+#6. Statewise Distribution of Vaccine Sites
+
+---Uttar Pradesh
+---Karnataka
+---Madhya Pradesh
+---Gujarat
+---Maharashtra
+
+
+#7. First Dose vs Second Dose
+
+---First Dose: 80.7 %
+---Second Dose: 19.3 %
+
+#8. July was the most productive month in terms of no. of people vaccinated(both 
+    first and second dose)
+
