@@ -1,3 +1,5 @@
+These are some of the important conclusions we can draw from the analytics performed on the given data.
+
 #1. Statewise Distribution of Max Doses Administered in a Single Day
 
 ---U.P.
@@ -53,3 +55,7 @@
 #8. July was the most productive month in terms of no. of people vaccinated(both 
     first and second dose)
 
+
+Note: The data set contains data from 16-1-2021 to 15-8-2021 only . The data set also contains many missing values , which decreases the accuracy of this analytics project .
+
+The above project used bar graphs , line plots , pie charts and spatial/geographical analysis using various modules like matplotlib ,seabron , plotly , pygeocoder etc for analysis. Other important libraries like Pandas , NumPy ,math etc are used to maneuver and combine data .
